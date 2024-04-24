@@ -1,0 +1,37 @@
+﻿  Lista 5.cpp
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\CMySmartPointer.h(19,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "CMySmartPointer<T>::CMySmartPointer"
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\CMySmartPointer.h(25,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "CMySmartPointer<T>::CMySmartPointer"
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(124,14): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(126,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(129,14): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(131,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(156,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(161,13): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(189,29): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\NodeTree.h(195,28): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\CMySmartPointer.h(19,1): warning C4812: przestarzała deklaracja stylu: zamiast niej użyj "CMySmartPointer<int>::CMySmartPointer"
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\CMySmartPointer.h(19,54): message : podczas kompilowania funkcji składowej „CMySmartPointer<int>::CMySmartPointer(T *)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\Lista 5.cpp(21,26): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CMySmartPointer<int>::CMySmartPointer(T *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\Lista 5\Lista 5.cpp(21,38): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CMySmartPointer<int>” klasy klasa szablon
+  Trwa generowanie kodu
+  1 of 95 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Lista 5.vcxproj -> C:\Users\minki\Desktop\l\Studia\Semestr III\Techniki Efektywnego Programowania\Lista 5\x64\Release\Lista 5.exe
